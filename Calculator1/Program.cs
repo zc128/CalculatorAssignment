@@ -1,50 +1,21 @@
 ﻿using System;
+using CalculatorLibrary;
+using System.IO;
+using Newtonsoft.Json;
 
-namespace Calculator
-{
-    class Calculator
-    {
-        public static double DoOperation(double num1, double num2, string op)
-        {
-            double result = double.NaN;  //don't understand this line
-
-             
-            switch (op)
-            {
-                case "a":
-                    result = num1 + num2;
-                    break;
-                case "s":
-                    result = num1 - num2;
-                    break;
-                case "m":
-                    result = num1 * num2;
-                    break;
-                case "d":
-                     
-                    if (num2 != 0)
-                    {
-                        result = num1 / num2;
-                    }
-                    break;
-              
-                default:
-                    break;
-            }
-            return result;
-        }
-    }
-
+namespace CalculatorProgram
+{   
     class Program
     {
         static void Main(string[] args)
         {
-            bool endApp = false;//don't understand this line
+            bool endApp = false; 
 
             Console.WriteLine("Console Calculator in C#");
-      
 
-            while (!endApp)//don't understand this line
+            Calculator calculator = new Calculator();
+
+            while (!endApp) 
             {
                  
                 string Input1 = "";
@@ -87,7 +58,7 @@ namespace Calculator
 
                 try
                 {
-                    result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
+                    result = Calculator.DoOperation(cleanNum1, cleanNum2, op); //changed to "C"
                     if (double.IsNaN(result))
                     {
                         Console.WriteLine("This operation will result in a mathematical error.");
@@ -100,10 +71,13 @@ namespace Calculator
                 }
                                                
                 Console.Write("Press 'c' and Enter to close the app, or press any other key and Enter to continue: ");
-                if (Console.ReadLine() == "c") endApp = true;//don't understand this line
+                if (Console.ReadLine() == "c") endApp = true; 
 
             }
+            // And call to close the JSON writer before return
+            calculator.Finish();
             return;
         }
+     
     }
 }
