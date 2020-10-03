@@ -6,12 +6,10 @@ C:\Users\admin\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calc
 C:\Users\admin\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.pdb
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfoInputs.cache
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfo.cs
-C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.dll
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.pdb
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.genruntimeconfig.cache
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csprojAssemblyReference.cache
-C:\Users\admin\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
-C:\Users\admin\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
 C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csproj.CopyComplete
 C:\Users\admin\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csproj.CoreCompileInputs.cache

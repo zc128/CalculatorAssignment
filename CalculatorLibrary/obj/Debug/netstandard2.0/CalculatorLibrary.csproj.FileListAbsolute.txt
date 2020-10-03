@@ -1,9 +1,0 @@
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.deps.json
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.dll
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\bin\Debug\netstandard2.0\CalculatorLibrary.pdb
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.dll
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.pdb
-C:\Users\admin\source\repos\Calculator1\CalculatorLibrary\obj\Debug\netstandard2.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
